@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Travel Portal
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://travel-portal-009.netlify.app/).
 
 ## Available Scripts
 
