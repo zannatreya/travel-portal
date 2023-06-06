@@ -1,6 +1,6 @@
 # Getting Started with Travel Portal
 
-This project was bootstrapped with [(https://travel-portal-009.netlify.app/).]
+This project was bootstrapped with https://travel-portal-009.netlify.app/
 
 ## Available Scripts
 
